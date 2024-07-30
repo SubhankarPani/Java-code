@@ -197,3 +197,12 @@ they cannot be inherited or accessed by subclasses
 protected-protected access modifer allows visibility within the package
 this allows subclasses to access and override these members.
 -------------------------------------------------------------------------------------------------------------------------------
+difference between class vs Instance
+class-you can instantiate variables and create an object
+A class can contain concrete
+The access specifier used with classes are private,protected,and public
+
+Interface-you can't instantiate variables and create an object
+the interface cannot contain concrete
+In Interface only one specifier is used-public
+--------------------------------------------------------------------------------------------------------------------------------
