@@ -1,0 +1,42 @@
+in second type of polymorphism that is overriding which is basically used to check that the method of same name ..the boy may differ is beinging accessed by more than on class.
+
+now how the code know which method to parameters to call.
+
+Parent obj=new Child();
+
+So its simple that , which method will be called depends on child also known as upcasting.
+
+what parameter to access depends on reference variable.
+
+How does it know which particular func to run?
+We know that the obj type to run and the reference type determines which to access.
+
+How java determines this?
+Dynamic method dispach (Very Important) that's why its also know dynamic Polymorphism .
+while the program is running.runtime polymorphism 
+Final is used to prevent overriding
+FInal is used to make constant variables that methods or variables will not be overwritten.
+
+
+
+Static method will get call from everywhere;
+So @override does work here;depends on objects
+but can be inherited.
+
+Encapsulation
+
+means wrapping up the implementation of the data members and methods in a class.
+
+Abstraction
+
+means hiding the unnessary details and showing valuable information.
+solving a implemententaton level issue  .
+SO it hides the code In a single entity.
+implementation stuff
+internal working
+
+
+eg you put the key in the car and it start ,do we need to know the mechanism? NO
+this is a design issue.what to show and what not to show.
+outside stuff
+
