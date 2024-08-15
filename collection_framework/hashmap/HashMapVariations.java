@@ -1,5 +1,4 @@
-package collection_framework;
-import java.nio.channels.ScatteringByteChannel;
+package collection_framework.hashmap;
 import java.util.*;
 public class HashMapVariations {
     public static void main(String[] args) {
