@@ -12,6 +12,7 @@ public class Palindrome {
         }
         if(num==reversednumber){
             System.out.println("true");
+
         }
         else{
             System.out.println("False");
