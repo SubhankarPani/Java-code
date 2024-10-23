@@ -22,8 +22,6 @@ public class maximumsubarraysum {
 
             sum += nums[j];
             set.add(nums[j]);
-
-            // If the window size equals k, we check for distinctness
             if (j - i + 1 == k) {
                 maxSum = Math.max(maxSum, sum); // Update maxSum if distinct
 
